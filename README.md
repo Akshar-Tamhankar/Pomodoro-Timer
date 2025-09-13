@@ -36,4 +36,4 @@ This is a simple **console-based Pomodoro timer** built in Python. It helps stud
 2. Open a terminal and run:
 
 ```bash
-python pomodoro_timer.py
+python pomodoro-timer.py
