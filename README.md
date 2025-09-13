@@ -32,7 +32,7 @@ This is a simple **console-based Pomodoro timer** built in Python. It helps stud
 
 ## How to Run
 
-1. Save the script as `pomodoro_timer.py`
+1. Save the script as `pomodoro-timer.py`
 2. Open a terminal and run:
 
 ```bash
